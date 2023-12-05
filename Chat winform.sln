@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chat winform", "Chat winform\Chat winform.csproj", "{58C7D95A-59A0-4DF6-AE49-6EAA850F97F0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Chat server", "Chat server\Chat server.csproj", "{E4B84D82-AACA-4EAE-9449-149B4874BE7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58C7D95A-59A0-4DF6-AE49-6EAA850F97F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58C7D95A-59A0-4DF6-AE49-6EAA850F97F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58C7D95A-59A0-4DF6-AE49-6EAA850F97F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58C7D95A-59A0-4DF6-AE49-6EAA850F97F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4B84D82-AACA-4EAE-9449-149B4874BE7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4B84D82-AACA-4EAE-9449-149B4874BE7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4B84D82-AACA-4EAE-9449-149B4874BE7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4B84D82-AACA-4EAE-9449-149B4874BE7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8DF8AFB9-24BF-48A5-8F56-4DE169749623}
+	EndGlobalSection
+EndGlobal
